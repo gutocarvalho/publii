@@ -3,7 +3,7 @@
     <title>Via Horizonte</title>
     <link href="https://viahorizonte.life/feed.xml" rel="self" />
     <link href="https://viahorizonte.life" />
-    <updated>2021-05-31T06:09:12-03:00</updated>
+    <updated>2021-05-31T11:07:57-03:00</updated>
     <author>
         <name>Guto Carvalho</name>
     </author>
@@ -37,10 +37,10 @@
         <link href="https://viahorizonte.life/contato/"/>
         <id>https://viahorizonte.life/contato/</id>
 
-        <updated>2021-05-31T05:59:43-03:00</updated>
+        <updated>2021-05-31T11:07:57-03:00</updated>
             <summary>
                 <![CDATA[
-                    Telefone do Via Horizonte 61-3771-7524 E-mail da administração administracao@viahorizonte.life E-mail do conselho conselho@viahorizonte.life
+                    Telefone do Via Horizonte 61-3771-7524 E-mail da administração administracao@viahorizonte.life E-mail do conselho conselho@viahorizonte.life Endereço Alameda Mamoré II, Quadra C02, Conjunto 5, Edificio Via Horizonte, Bairro Alphaville Brasília, Cidade Ocidental/GO, 72897-900
                 ]]>
             </summary>
         <content type="html">
@@ -48,7 +48,7 @@
                 <p><strong>Telefone do Via Horizonte</strong></p>
 <p>61-3771-7524<br><br><strong>E-mail da administração</strong></p>
 <p><a href="mailto:administracao@viahorizonte.life">administracao@viahorizonte.life</a><br><br><strong>E-mail do conselho</strong></p>
-<p><a href="mailto:conselho@viahorizonte.life">conselho@viahorizonte.life</a></p>
+<p><a href="mailto:conselho@viahorizonte.life">conselho@viahorizonte.life</a><br><br><strong>Endereço<br><br></strong>Alameda Mamoré II, Quadra C02, Conjunto 5, Edificio Via Horizonte, Bairro Alphaville Brasília, Cidade Ocidental/GO, 72897-900</p>
             ]]>
         </content>
     </entry>
