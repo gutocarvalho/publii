@@ -3,12 +3,32 @@
     <title>Via Horizonte</title>
     <link href="https://viahorizonte.life/feed.xml" rel="self" />
     <link href="https://viahorizonte.life" />
-    <updated>2021-05-31T05:59:43-03:00</updated>
+    <updated>2021-05-31T06:07:38-03:00</updated>
     <author>
         <name>Guto Carvalho</name>
     </author>
     <id>https://viahorizonte.life</id>
 
+    <entry>
+        <title>Site</title>
+        <author>
+            <name>Guto Carvalho</name>
+        </author>
+        <link href="https://viahorizonte.life/site.html"/>
+        <id>https://viahorizonte.life/site.html</id>
+
+        <updated>2021-05-31T06:07:38-03:00</updated>
+            <summary>
+                <![CDATA[
+                    Site mantido por guto@viahorizonte.life. Este site é uma iniciativa indivual.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Site mantido por <a href="mailto:guto@viahorizonte.life">guto@viahorizonte.life</a>.<br><br>Este site é uma iniciativa indivual.</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Contato</title>
         <author>
@@ -670,71 +690,6 @@
 <li>Não é causa para isentar-se de responsabilidade a alegação de desconhecimento das normas do condomínio, recaindo a responsabilidade final sobre o condômino.</li>
 </ol>
 <p>- Este regimento interno será fixado nas partes comuns do edifício, em locais escolhidos pelos síndico como também será distribuído a todos os condôminos/proprietários e inquilinos.</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Conselho Fiscal e Consultivo</title>
-        <author>
-            <name>Guto Carvalho</name>
-        </author>
-        <link href="https://viahorizonte.life/conselho-fiscal-e-consultivo.html"/>
-        <id>https://viahorizonte.life/conselho-fiscal-e-consultivo.html</id>
-
-        <updated>2021-05-31T05:47:16-03:00</updated>
-            <summary>
-                <![CDATA[
-                    Conselheiros - José Augusto da Costa Carvalho (901-A) - Rodrigo de Sousa Mota (501-A) - André Sant'na da Silva (1301-A) Presidente eleito José Augusto Vice Presidente eleito Rodrigo Mota Eleições Eleição de conselheiros no dia 30/03/2021 Eleição de presidente e vice-presidente do conselho em 30/04/2021&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p><strong>Conselheiros</strong></p>
-<div class="page" title="Page 4">
-<div class="section">
-<div class="layoutArea">
-<div class="column">
-<p>- José Augusto da Costa Carvalho (901-A)<br>- Rodrigo de Sousa Mota (501-A)<br>- André Sant'na da Silva (1301-A)</p>
-<p><strong>Presidente eleito</strong><br><br>José Augusto<br><br><strong>Vice Presidente eleito</strong><br><br>Rodrigo Mota<br><br><strong>Eleições</strong><br><br>Eleição de conselheiros no dia 30/03/2021<br><br>Eleição de presidente e vice-presidente do conselho em 30/04/2021</p>
-<p>_________________________________________</p>
-<div class="page" title="Page 2">
-<div class="section">
-<div class="layoutArea">
-<div class="column">
-<p><strong>DAS ATIVIDADES A SEREM REALIZADAS PELO CONSELHO</strong></p>
-</div>
-</div>
-</div>
-</div>
-<div class="page" title="Page 2">
-<div class="section">
-<div class="layoutArea">
-<div class="column">
-<p>Este conselho atuará nas seguintes atividades:</p>
-<p>- Acompanhar contas, orçamentos e documentação da gestão financeira;<br>- Garantir que os recursos arrecadados estão sendo aplicados corretamente; <br>- Conferir os balanços de contabilidade;<br>- Contratar o serviço de auditoria de contas se for necessário;<br>- Alertar o síndico sobre possíveis irregularidades;<br>- Verificar se estão sendo respeitadas as decisões tomadas em assembleia;<br>- Emitir relatórios e pareceres do conselho fiscal de condomínio;<br>- Acompanhar o trabalho do síndico e da administradora do condomínio;<br>- Emitir pareceres concordando ou reprovando a prestação de contas anual; <br>- Responder consultas e pedidos do síndico, sub síndica e administradora;<br>- Receber e encaminhar "recursos" dos condôminos.</p>
-<p>É importante ressaltar que o conselho não tem poder de decisão, ele fiscaliza, sugere, elogia ou critica o trabalho de síndico e subsíndica, bem como emite sua opinião sobre as contas. Contudo, o conselho, pode, no entanto, chamar uma assembleia se achar necessário participar seus condôminos de assuntos de interesse do condomínio, inclusive sem anuência do síndico eleito.</p>
-<p><strong>DO ATENDIMENTO E ACIONAMENTO</strong></p>
-<p>- O atendimento será remoto e totalmente digital;<br>- O conselho estará atendendo das 09 às 17 horas diariamente;<br>- Para acionar o conselho deve-se enviar um e-mail para <span style="color: #3598db;"><strong>conselho@viahorizonte.life</strong></span>; - O e-mail será tratado com um chamado e respondido em até 24 horas úteis;<br>- O conselho só atende emergencialmente o síndico e ninguém mais;<br>- O conselho não atende por telefone ou whatsapp, apenas pelo e-mail;<br>- Pode-se agendar uma reunião virtual com o conselho – via e-mail.</p>
-<p><span style="color: #e67e23;">O conselho não atende por outros meios, bem como dentro de elevadores, garagens ou piscinas, áreas comuns ou de lazer do prédio. O conselho não atende na residência dos conselheiros. Nos finais de semana o conselho não funciona. Favor evitar aproximação dos conselheiros em seu horário livre com suas famílias para tratar assuntos pertinentes ao condomínio.</span></p>
-<div class="page" title="Page 3">
-<div class="section">
-<div class="layoutArea">
-<div class="column">
-<p><strong>DO PEDIDO DE RECURSO<br></strong><br>O conselho precisa ser acionado e provocado formalmente – através de recurso - para atuarem questões de interesse de condôminos conforme rege o artigo 35 da convenção. <br><br><strong>"Artigo 35: Dos atos do síndico ou subsíndico cabe recurso ao Conselho Consultivo e Fiscal em Primeira instância, e para assembléia geral em segunda instância."</strong></p>
-<p>Os recursos devem ser feitos por e-mail no endereço <span style="color: #3598db;"><strong>conselho@viahorizonte.life</strong></span>. Pedimos gentileza anexar informações relevantes como fotos, áudios e documentos relacionados ao recurso.</p>
-<p>Quando acionado, o conselho entrará em contato com o síndico para buscar esclarecimentos, e caso preciso, chamará uma AGE para tratar o assunto de forma coletiva.</p>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
             ]]>
         </content>
     </entry>
