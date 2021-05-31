@@ -3,7 +3,7 @@
     <title>Via Horizonte</title>
     <link href="https://viahorizonte.life/feed.xml" rel="self" />
     <link href="https://viahorizonte.life" />
-    <updated>2021-05-31T06:07:38-03:00</updated>
+    <updated>2021-05-31T06:09:12-03:00</updated>
     <author>
         <name>Guto Carvalho</name>
     </author>
@@ -17,15 +17,15 @@
         <link href="https://viahorizonte.life/site.html"/>
         <id>https://viahorizonte.life/site.html</id>
 
-        <updated>2021-05-31T06:07:38-03:00</updated>
+        <updated>2021-05-31T06:09:12-03:00</updated>
             <summary>
                 <![CDATA[
-                    Site mantido por guto@viahorizonte.life. Este site é uma iniciativa indivual.
+                    Site mantido por guto@viahorizonte.life. Este site é uma iniciativa individual.
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <p>Site mantido por <a href="mailto:guto@viahorizonte.life">guto@viahorizonte.life</a>.<br><br>Este site é uma iniciativa indivual.</p>
+                <p>Site mantido por <a href="mailto:guto@viahorizonte.life">guto@viahorizonte.life</a>.<br><br>Este site é uma iniciativa individual.</p>
             ]]>
         </content>
     </entry>

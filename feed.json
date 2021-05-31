@@ -13,15 +13,15 @@
             "id": "https://viahorizonte.life/site.html",
             "url": "https://viahorizonte.life/site.html",
             "title": "Site",
-            "summary": "Site mantido por guto@viahorizonte.life. Este site é uma iniciativa indivual.",
-            "content_html": "<p>Site mantido por <a href=\"mailto:guto@viahorizonte.life\">guto@viahorizonte.life</a>.<br><br>Este site é uma iniciativa indivual.</p>",
+            "summary": "Site mantido por guto@viahorizonte.life. Este site é uma iniciativa individual.",
+            "content_html": "<p>Site mantido por <a href=\"mailto:guto@viahorizonte.life\">guto@viahorizonte.life</a>.<br><br>Este site é uma iniciativa individual.</p>",
             "author": {
                 "name": "Guto Carvalho"
             },
             "tags": [
             ],
             "date_published": "2021-05-31T06:05:16-03:00",
-            "date_modified": "2021-05-31T06:07:38-03:00"
+            "date_modified": "2021-05-31T06:09:12-03:00"
         },
         {
             "id": "https://viahorizonte.life/contato.html",
