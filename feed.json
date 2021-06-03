@@ -10,6 +10,21 @@
     },
     "items": [
         {
+            "id": "https://viahorizonte.life/cervejeiros/",
+            "url": "https://viahorizonte.life/cervejeiros/",
+            "title": "Grupo Cervejeiros",
+            "summary": "Grupo para compartilhar nosso apreço por cervejas e bebidas em geral. - https://chat.whatsapp.com/KgD1zhPcoyb9on8fvPB7ll Todas as pessoas são bem vindas! 18+ Patrocínio Stanley Equipamento recomendado :)",
+            "content_html": "<p>Grupo para compartilhar nosso apreço por cervejas e bebidas em geral.</p>\n<p>- <a href=\"https://chat.whatsapp.com/KgD1zhPcoyb9on8fvPB7ll\">https://chat.whatsapp.com/KgD1zhPcoyb9on8fvPB7ll</a></p>\n<p>Todas as pessoas são bem vindas!<br><br><strong>18+<br><br>Patrocínio <a href=\"https://www.stanley-pmi.com.br/bar\" target=\"_blank\" rel=\"noopener noreferrer\">Stanley</a><br><br>Equipamento <a href=\"https://www.stanley-pmi.com.br/produto/caneca-termica-de-cerveja-matte-black-0-709l-98091\" target=\"_blank\" rel=\"noopener noreferrer\">recomendado</a></strong></p>\n<p> </p>\n<p>:)</p>",
+            "image": "https://viahorizonte.life/media/posts/31/cervejeiros-2.jpeg",
+            "author": {
+                "name": "Guto Carvalho"
+            },
+            "tags": [
+            ],
+            "date_published": "2021-06-03T16:02:44-03:00",
+            "date_modified": "2021-06-03T16:09:38-03:00"
+        },
+        {
             "id": "https://viahorizonte.life/grupos-externos-alpha/",
             "url": "https://viahorizonte.life/grupos-externos-alpha/",
             "title": "Grupos externos",
@@ -134,20 +149,6 @@
             ],
             "date_published": "2021-05-31T14:47:27-03:00",
             "date_modified": "2021-05-31T14:49:16-03:00"
-        },
-        {
-            "id": "https://viahorizonte.life/site/",
-            "url": "https://viahorizonte.life/site/",
-            "title": "Site",
-            "summary": "Site mantido por guto@viahorizonte.life. Este site é uma iniciativa individual.",
-            "content_html": "<p>Site mantido por <a href=\"mailto:guto@viahorizonte.life\">guto@viahorizonte.life</a>.<br><br>Este site é uma iniciativa individual.</p>",
-            "author": {
-                "name": "Guto Carvalho"
-            },
-            "tags": [
-            ],
-            "date_published": "2021-05-31T06:05:16-03:00",
-            "date_modified": "2021-05-31T06:09:12-03:00"
         }
     ]
 }

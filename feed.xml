@@ -3,12 +3,38 @@
     <title>Via Horizonte</title>
     <link href="https://viahorizonte.life/feed.xml" rel="self" />
     <link href="https://viahorizonte.life" />
-    <updated>2021-06-03T15:55:04-03:00</updated>
+    <updated>2021-06-03T16:09:38-03:00</updated>
     <author>
         <name>Guto Carvalho</name>
     </author>
     <id>https://viahorizonte.life</id>
 
+    <entry>
+        <title>Grupo Cervejeiros</title>
+        <author>
+            <name>Guto Carvalho</name>
+        </author>
+        <link href="https://viahorizonte.life/cervejeiros/"/>
+        <id>https://viahorizonte.life/cervejeiros/</id>
+
+        <updated>2021-06-03T16:09:38-03:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://viahorizonte.life/media/posts/31/cervejeiros-2.jpeg" alt="" />
+                    Grupo para compartilhar nosso apreço por cervejas e bebidas em geral. - https://chat.whatsapp.com/KgD1zhPcoyb9on8fvPB7ll Todas as pessoas são bem vindas! 18+ Patrocínio Stanley Equipamento recomendado :)
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://viahorizonte.life/media/posts/31/cervejeiros-2.jpeg" alt="" />
+                <p>Grupo para compartilhar nosso apreço por cervejas e bebidas em geral.</p>
+<p>- <a href="https://chat.whatsapp.com/KgD1zhPcoyb9on8fvPB7ll">https://chat.whatsapp.com/KgD1zhPcoyb9on8fvPB7ll</a></p>
+<p>Todas as pessoas são bem vindas!<br><br><strong>18+<br><br>Patrocínio <a href="https://www.stanley-pmi.com.br/bar" target="_blank" rel="noopener noreferrer">Stanley</a><br><br>Equipamento <a href="https://www.stanley-pmi.com.br/produto/caneca-termica-de-cerveja-matte-black-0-709l-98091" target="_blank" rel="noopener noreferrer">recomendado</a></strong></p>
+<p> </p>
+<p>:)</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Grupos externos</title>
         <author>
@@ -201,26 +227,6 @@
                 <p>A correspondência é recebida na portaria A.</p>
 <p>É verificado o destinatário, caso exista, é recebida e ocorre o registro no livro.</p>
 <p>O morador é notificado via sistema.<br><br>Correspondência é recebida de forma contínua, 24 horas.</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Site</title>
-        <author>
-            <name>Guto Carvalho</name>
-        </author>
-        <link href="https://viahorizonte.life/site/"/>
-        <id>https://viahorizonte.life/site/</id>
-
-        <updated>2021-05-31T06:09:12-03:00</updated>
-            <summary>
-                <![CDATA[
-                    Site mantido por guto@viahorizonte.life. Este site é uma iniciativa individual.
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p>Site mantido por <a href="mailto:guto@viahorizonte.life">guto@viahorizonte.life</a>.<br><br>Este site é uma iniciativa individual.</p>
             ]]>
         </content>
     </entry>
