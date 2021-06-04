@@ -3,12 +3,32 @@
     <title>Via Horizonte</title>
     <link href="https://viahorizonte.life/feed.xml" rel="self" />
     <link href="https://viahorizonte.life" />
-    <updated>2021-06-03T21:04:13-03:00</updated>
+    <updated>2021-06-03T21:28:55-03:00</updated>
     <author>
         <name>Guto Carvalho</name>
     </author>
     <id>https://viahorizonte.life</id>
 
+    <entry>
+        <title>Unidades básicas de saúde</title>
+        <author>
+            <name>Guto Carvalho</name>
+        </author>
+        <link href="https://viahorizonte.life/unidades-basicas-de-saude/"/>
+        <id>https://viahorizonte.life/unidades-basicas-de-saude/</id>
+
+        <updated>2021-06-03T21:28:55-03:00</updated>
+            <summary>
+                <![CDATA[
+                    Unidade Básica de saúde Jardim ABC Local: GO 251 Faz vacina: Sim (diariamente) Ponto de referência: Praça Central / Feira do Produtor Unidade Básica de Saúde Nova Bethania Local: DF 240, antes da subida do posto, sentido Brasília Faz vacina: Não Ponto de referência: Posto&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p><strong>Unidade Básica de saúde Jardim ABC</strong><br>Local: GO 251<br>Faz vacina: Sim (diariamente)<br>Ponto de referência: Praça Central / Feira do Produtor<br><br><strong>Unidade Básica de Saúde Nova Bethania</strong><br>Local: DF 240, antes da subida do posto, sentido Brasília<br>Faz vacina: Não<br>Ponto de referência: Posto BR DF 240 Tororó<br><br><strong>Unidade Básica de Saúde Alpha Center</strong><br>Local: DF 240<br>Faz vacina: Sim (terças e quintas)<br>Ponto de referência: Padaria Seleta</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Comida Direto no Via!</title>
         <author>
@@ -206,26 +226,6 @@
             <![CDATA[
                 <p>A entrega deve ser feita através da portaria do bloco A.</p>
 <p>O morador será avisado que seu pedido chegou, e este deve retirar na portaria.<br><br>Não é permitido que entregadores acessem o prédio sem acompanhamento de um AGP.</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Entregas de grandes objetos</title>
-        <author>
-            <name>Guto Carvalho</name>
-        </author>
-        <link href="https://viahorizonte.life/entregas/"/>
-        <id>https://viahorizonte.life/entregas/</id>
-
-        <updated>2021-05-31T14:50:44-03:00</updated>
-            <summary>
-                <![CDATA[
-                    Entregas de grandes objetos como móveis, geladeiras, etc, deve ser realizado entre 08 e 18 horas, de segunda a sexta e de 08 as 12 horas no sábado.
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p>Entregas de grandes objetos como móveis, geladeiras, etc, deve ser realizado entre 08 e 18 horas, de segunda a sexta e de 08 as 12 horas no sábado.</p>
             ]]>
         </content>
     </entry>
