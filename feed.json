@@ -10,6 +10,20 @@
     },
     "items": [
         {
+            "id": "https://viahorizonte.life/comida-direto-no-via/",
+            "url": "https://viahorizonte.life/comida-direto-no-via/",
+            "title": "Comida Direto no Via!",
+            "summary": "Onii - Mercadinho eletrônico no L Pizza con Amore da Aline! - Pizza, pães, caldos e drinks - Zap 61-98102-2750 Quer colocar seu contato aqui? Manda um e-mail para contato@viahorizonte.life com os dados :) ",
+            "content_html": "<p><strong>Onii<br></strong>- Mercadinho eletrônico no L<strong><br><br>Pizza con Amore da Aline!</strong><br>- Pizza, pães, caldos e drinks<br>- Zap 61-98102-2750</p>\n<p>Quer colocar seu contato aqui? <br>Manda um e-mail para <a href=\"mailto:contato@viahorizonte.life\">contato@viahorizonte.life</a> com os dados :)<br><br><br></p>",
+            "author": {
+                "name": "Guto Carvalho"
+            },
+            "tags": [
+            ],
+            "date_published": "2021-06-03T21:03:06-03:00",
+            "date_modified": "2021-06-03T21:04:13-03:00"
+        },
+        {
             "id": "https://viahorizonte.life/cervejeiros/",
             "url": "https://viahorizonte.life/cervejeiros/",
             "title": "Grupo Cervejeiros",
@@ -135,20 +149,6 @@
             ],
             "date_published": "2021-05-31T14:49:02-03:00",
             "date_modified": "2021-05-31T14:50:44-03:00"
-        },
-        {
-            "id": "https://viahorizonte.life/correspondencia/",
-            "url": "https://viahorizonte.life/correspondencia/",
-            "title": "Correspondência",
-            "summary": "A correspondência é recebida na portaria A. É verificado o destinatário, caso exista, é recebida e ocorre o registro no livro. O morador é notificado via sistema. Correspondência é recebida de forma contínua, 24 horas.",
-            "content_html": "<p>A correspondência é recebida na portaria A.</p>\n<p>É verificado o destinatário, caso exista, é recebida e ocorre o registro no livro.</p>\n<p>O morador é notificado via sistema.<br><br>Correspondência é recebida de forma contínua, 24 horas.</p>",
-            "author": {
-                "name": "Guto Carvalho"
-            },
-            "tags": [
-            ],
-            "date_published": "2021-05-31T14:47:27-03:00",
-            "date_modified": "2021-05-31T14:49:16-03:00"
         }
     ]
 }

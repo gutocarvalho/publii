@@ -3,12 +3,33 @@
     <title>Via Horizonte</title>
     <link href="https://viahorizonte.life/feed.xml" rel="self" />
     <link href="https://viahorizonte.life" />
-    <updated>2021-06-03T16:13:44-03:00</updated>
+    <updated>2021-06-03T21:04:13-03:00</updated>
     <author>
         <name>Guto Carvalho</name>
     </author>
     <id>https://viahorizonte.life</id>
 
+    <entry>
+        <title>Comida Direto no Via!</title>
+        <author>
+            <name>Guto Carvalho</name>
+        </author>
+        <link href="https://viahorizonte.life/comida-direto-no-via/"/>
+        <id>https://viahorizonte.life/comida-direto-no-via/</id>
+
+        <updated>2021-06-03T21:04:13-03:00</updated>
+            <summary>
+                <![CDATA[
+                    Onii - Mercadinho eletrônico no L Pizza con Amore da Aline! - Pizza, pães, caldos e drinks - Zap 61-98102-2750 Quer colocar seu contato aqui? Manda um e-mail para contato@viahorizonte.life com os dados :) 
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p><strong>Onii<br></strong>- Mercadinho eletrônico no L<strong><br><br>Pizza con Amore da Aline!</strong><br>- Pizza, pães, caldos e drinks<br>- Zap 61-98102-2750</p>
+<p>Quer colocar seu contato aqui? <br>Manda um e-mail para <a href="mailto:contato@viahorizonte.life">contato@viahorizonte.life</a> com os dados :)<br><br><br></p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Grupo Cervejeiros</title>
         <author>
@@ -205,28 +226,6 @@
         <content type="html">
             <![CDATA[
                 <p>Entregas de grandes objetos como móveis, geladeiras, etc, deve ser realizado entre 08 e 18 horas, de segunda a sexta e de 08 as 12 horas no sábado.</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Correspondência</title>
-        <author>
-            <name>Guto Carvalho</name>
-        </author>
-        <link href="https://viahorizonte.life/correspondencia/"/>
-        <id>https://viahorizonte.life/correspondencia/</id>
-
-        <updated>2021-05-31T14:49:16-03:00</updated>
-            <summary>
-                <![CDATA[
-                    A correspondência é recebida na portaria A. É verificado o destinatário, caso exista, é recebida e ocorre o registro no livro. O morador é notificado via sistema. Correspondência é recebida de forma contínua, 24 horas.
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p>A correspondência é recebida na portaria A.</p>
-<p>É verificado o destinatário, caso exista, é recebida e ocorre o registro no livro.</p>
-<p>O morador é notificado via sistema.<br><br>Correspondência é recebida de forma contínua, 24 horas.</p>
             ]]>
         </content>
     </entry>
