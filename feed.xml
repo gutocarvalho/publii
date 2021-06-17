@@ -3,12 +3,52 @@
     <title>Via Horizonte</title>
     <link href="https://viahorizonte.life/feed.xml" rel="self" />
     <link href="https://viahorizonte.life" />
-    <updated>2021-06-10T08:47:41-03:00</updated>
+    <updated>2021-06-17T00:11:29-03:00</updated>
     <author>
         <name>Guto Carvalho</name>
     </author>
     <id>https://viahorizonte.life</id>
 
+    <entry>
+        <title>Escadas</title>
+        <author>
+            <name>Guto Carvalho</name>
+        </author>
+        <link href="https://viahorizonte.life/escadas/"/>
+        <id>https://viahorizonte.life/escadas/</id>
+
+        <updated>2021-06-17T00:11:29-03:00</updated>
+            <summary>
+                <![CDATA[
+                     Escadas - Cada torre tem sua escada de emergência - Luzes de emergência estão localizadas em cada andar Dimensões das Escadas - Corrimão a corrimão 1,23m - Parede a parede 1,39m - Altura 2,46m - Porta corta fogo 0,8x x 2,08m (vão livre)
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p> <strong>Escadas</strong><br><br>- Cada torre tem sua escada de emergência<br>- Luzes de emergência estão localizadas em cada andar<br><br><strong>Dimensões das Escadas</strong><br><br>- Corrimão a corrimão 1,23m<br>- Parede a parede 1,39m<br>- Altura 2,46m<br>- Porta corta fogo 0,8x x 2,08m (vão livre)</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Elevadores</title>
+        <author>
+            <name>Guto Carvalho</name>
+        </author>
+        <link href="https://viahorizonte.life/elevadores/"/>
+        <id>https://viahorizonte.life/elevadores/</id>
+
+        <updated>2021-06-17T00:08:53-03:00</updated>
+            <summary>
+                <![CDATA[
+                     Elevadores Temos 7 elevadores no total dentro do Via Horizonte. São 3 elevadores por bloco, sendo 2 sociais e 1 de serviço. Temos também 1 elevador - panorâmico - na recepção que dá acesso a área gourmet e também a área de lazer (L).
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p><br><strong>Elevadores</strong><br><br>Temos 7 elevadores no total dentro do Via Horizonte.<br><br>São 3 elevadores por bloco, sendo 2 sociais e 1 de serviço.<br><br>Temos também 1 elevador - panorâmico - na recepção que dá acesso a área gourmet e também a área de lazer (L).<br><br><strong>Dimensões Elevadores</strong><br><br>- Social <br>  - Porta da cabine 0,80cm x 2,00m<br>  - Lagura da cabine 1,08m<br>  - Profundidade da cabine 1,38m<br>  - Altura da cabine 2,18m<br><br> - Serviço<br>   - Porta da cabine 0,90cm x 2,00m<br>   - Lagura da cabine 1,30m<br>   - Profundidade da cabine 1,38m<br>   - Altura da cabine 2,18m</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Unidades básicas de saúde</title>
         <author>
@@ -188,47 +228,6 @@
 <p><strong>Formulários</strong></p>
 <p><strong>1. Necessidades de MANUTENÇÃO nas áreas comuns ou VIOLAÇÃO DO REGIMENTO INTERNO:</strong> <br><br>Formulário Google no link <a href="https://forms.gle/L7TcA3LKfdSfuPsG9" target="_blank" data-toggle="tooltip" title="https://forms.gle/L7TcA3LKfdSfuPsG9" rel="noopener">https://forms.gle/L7TcA3LKfdS<wbr>fuPsG9</a>;<br><strong style="color: var(--text-editor-body-color); font-family: var(--font-base); font-size: inherit;"><br>2. Informação de Obras Simples</strong><span style="color: var(--text-editor-body-color); font-family: var(--font-base); font-size: inherit; font-weight: var(--font-weight-normal);"> (que </span><u style="color: var(--text-editor-body-color); font-family: var(--font-base); font-size: inherit; font-weight: var(--font-weight-normal);">não </u><span style="color: var(--text-editor-body-color); font-family: var(--font-base); font-size: inherit; font-weight: var(--font-weight-normal);">impliquem modificações estruturais de gás, energia, hidráulica, alvenaria etc):  </span></p>
 <p>Formulário Google no link <a href="https://forms.gle/sKv4YvdhtFywiK8Y6" target="_blank" data-toggle="tooltip" title="https://forms.gle/sKv4YvdhtFywiK8Y6" rel="noopener">https://forms.gle/sKv4YvdhtFy<wbr>wiK8Y6</a>;<br><br><strong>3. Autorização de obras que impliquem modificações estruturais</strong>: <br><br>Formulário Google no link <a href="https://forms.gle/1DRugrN2QDwCEmWa9" target="_blank" data-toggle="tooltip" title="https://forms.gle/1DRugrN2QDwCEmWa9" rel="noopener">https://forms.gle/1DRugrN2QDw<wbr>CEmWa9</a>, <u>com antecedência mínima de 5 dias úteis</u>;</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Coleta do lixo</title>
-        <author>
-            <name>Guto Carvalho</name>
-        </author>
-        <link href="https://viahorizonte.life/coleta-do-lixo/"/>
-        <id>https://viahorizonte.life/coleta-do-lixo/</id>
-
-        <updated>2021-05-31T15:04:42-03:00</updated>
-            <summary>
-                <![CDATA[
-                     A coleta nas torres é feita diariamente. Cada andar possui uma local para armazenamento de lixo com duas lixeiras, uma para lixo seco, outra para lixo orgânico. A coleta começa no andar mais alto e vem descendo. Pela manhã ideal colocar o lixo até&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p><br>A coleta nas torres é feita diariamente.<br><br>Cada andar possui uma local para armazenamento de lixo com duas lixeiras, uma para lixo seco, outra para lixo orgânico.<br><br>A coleta começa no andar mais alto e vem descendo.<br><br>Pela manhã ideal colocar o lixo até às 08 horas, a coleta da manhã finaliza às 9:00 horas.<br><br>Pela tarde ideal colocar o lixo até às 14 horas, a coleta da tarde finaliza às 15:30 horas.</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Entrega de comida</title>
-        <author>
-            <name>Guto Carvalho</name>
-        </author>
-        <link href="https://viahorizonte.life/entrega-de-comida/"/>
-        <id>https://viahorizonte.life/entrega-de-comida/</id>
-
-        <updated>2021-05-31T14:53:14-03:00</updated>
-            <summary>
-                <![CDATA[
-                    A entrega deve ser feita através da portaria do bloco A. O morador será avisado que seu pedido chegou, e este deve retirar na portaria. Não é permitido que entregadores acessem o prédio sem acompanhamento de um AGP.
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p>A entrega deve ser feita através da portaria do bloco A.</p>
-<p>O morador será avisado que seu pedido chegou, e este deve retirar na portaria.<br><br>Não é permitido que entregadores acessem o prédio sem acompanhamento de um AGP.</p>
             ]]>
         </content>
     </entry>
