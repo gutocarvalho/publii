@@ -10,18 +10,32 @@
     },
     "items": [
         {
+            "id": "https://viahorizonte.life/denuncias/",
+            "url": "https://viahorizonte.life/denuncias/",
+            "title": "Denúncias",
+            "summary": "Caso deseje notificar alguma VIOLAÇÃO DO REGIMENTO INTERNO acesse este formulário.",
+            "content_html": "<p><strong>Caso deseje notificar alguma VIOLAÇÃO DO REGIMENTO INTERNO acesse este <a href=\"https://forms.gle/L7TcA3LKfdSfuPsG9\">formulário</a>.</strong></p>",
+            "author": {
+                "name": "Guto Carvalho"
+            },
+            "tags": [
+            ],
+            "date_published": "2021-06-17T00:26:24-03:00",
+            "date_modified": "2021-06-17T00:26:24-03:00"
+        },
+        {
             "id": "https://viahorizonte.life/reparos/",
             "url": "https://viahorizonte.life/reparos/",
-            "title": "Reparos",
-            "summary": "Caso deseje notificar a administração da necessidade de reparos de algum ponto do condomínio, basta preencher este formulário.",
-            "content_html": "<p>Caso deseje notificar a administração da necessidade de reparos de algum ponto do condomínio, basta preencher este <a href=\"https://forms.gle/L7TcA3LKfdSfuPsG9\">formulário</a>.</p>",
+            "title": "Reparos e ocorrências",
+            "summary": "Caso deseje notificar a administração da necessidade de reparos de algum ponto do condomínio, basta preencher este formulário. Neste formulário também é possível registrar ocorrências relativas a limpeza e segurança.",
+            "content_html": "<p>Caso deseje notificar a administração da necessidade de reparos de algum ponto do condomínio, basta preencher este <a href=\"https://forms.gle/L7TcA3LKfdSfuPsG9\">formulário</a>.</p>\n<p>Neste formulário também é possível registrar ocorrências relativas a limpeza e segurança.</p>",
             "author": {
                 "name": "Guto Carvalho"
             },
             "tags": [
             ],
             "date_published": "2021-06-17T00:16:26-03:00",
-            "date_modified": "2021-06-17T00:17:07-03:00"
+            "date_modified": "2021-06-17T00:27:49-03:00"
         },
         {
             "id": "https://viahorizonte.life/escadas/",
@@ -135,20 +149,6 @@
             ],
             "date_published": "2021-05-31T15:24:57-03:00",
             "date_modified": "2021-05-31T16:16:00-03:00"
-        },
-        {
-            "id": "https://viahorizonte.life/via/",
-            "url": "https://viahorizonte.life/via/",
-            "title": "Construtora Via",
-            "summary": "A VIA foi a construtora responsável pelo empreendimento. O empreendimento foi entregue em 2016. A VIA já teve até escritório dentro do Via Horizonte, dando um apoio excelente e cuidando da garantia dos apartamentos, fazendo também diversas melhorias no complexo após a entrega. No momento&hellip;",
-            "content_html": "<p>A VIA foi a construtora responsável pelo empreendimento.<br><br>O empreendimento foi entregue em 2016.<br><br>A VIA já teve até escritório dentro do Via Horizonte, dando um apoio excelente e cuidando da garantia dos apartamentos, fazendo também diversas melhorias no complexo após a entrega.<br><br>No momento a VIA está em recuperação judicial e não tem mais escritório no Via Horizonte.<br><br>- http://www.grupovia.com.br/recuperacao-judicial<br><br>Devido a uma dívida com o Bradesco, em 2019 a VIA repassou cerca de 70 unidades para quitar dívidas com o banco. O banco através de um de seus Fundos de Investimentos revendeu estas unidades, todas já foram vendidas.<br><br><strong>Consigo acionar a via para reparos ou garantia?</strong><br><br>No caso da VIA, só é possível acionar via justiça, mas é um processo lento e sem garantias.<br><br>A maioria dos novos e antigos moradores arca com os reparos diretamente.<br><br><strong>Contatos</strong><br><br>- Telefones: (61) 3403-4094 e 3403-4081<br>- Email: sac@grupovia.com.br<br>- Site: http://www.viaempreendimentos.com.br</p>",
-            "author": {
-                "name": "Guto Carvalho"
-            },
-            "tags": [
-            ],
-            "date_published": "2021-05-31T15:08:16-03:00",
-            "date_modified": "2021-05-31T15:10:01-03:00"
         }
     ]
 }
