@@ -10,6 +10,34 @@
     },
     "items": [
         {
+            "id": "https://viahorizonte.life/entregas-de-pequenos-objetos/",
+            "url": "https://viahorizonte.life/entregas-de-pequenos-objetos/",
+            "title": "Entregas de pequenos objetos",
+            "summary": "Entregas de pequenos objetos podem ocorrer a qualquer momento na portaria do bloco A.",
+            "content_html": "<p>Entregas de pequenos objetos podem ocorrer a qualquer momento na portaria do bloco A.</p>",
+            "author": {
+                "name": "Guto Carvalho"
+            },
+            "tags": [
+            ],
+            "date_published": "2021-07-06T20:32:12-03:00",
+            "date_modified": "2021-07-06T20:32:12-03:00"
+        },
+        {
+            "id": "https://viahorizonte.life/pets/",
+            "url": "https://viahorizonte.life/pets/",
+            "title": "Pets",
+            "summary": "Neste condomínio são permitidos pets de pequeno porte, desde que esses não venham perturbar o sossego público dos moradores ou violar as regras de higiene pública. Os pets devem ser transportados sempre que possível no elevador de serviço, de preferência no colo. Para visitas com&hellip;",
+            "content_html": "<p>Neste condomínio são permitidos pets de pequeno porte, desde que esses não venham perturbar o sossego público dos moradores ou violar as regras de higiene pública.<br><br>Os pets devem ser transportados sempre que possível no elevador de serviço, de preferência no colo.<br><br>Para visitas com pets – desde de se trate de pequeno porte, o acesso pela portaria principal pode ser utilizado se o pet estiver no colo de seu guardião.<br><br>Não é permitido a permanência de pets nas áreas de lazer, corredores e demais dependências do prédio.<br><br>Em caso do pet efetuar suas necessidades em área comum, seu guardião deverá fazer a higienização.<br><br>Mesmo fora das dependências do Via Horizonte, os guardiões devem levar sacos para coleta das necessidades de seus pets, observando sempre a limpeza e higiene nas ruas, calçadas e áreas verdes do complexo Alphaville Brasília.</p>\n<p>Evite deixar o pet fazer as necessidades no jardim da entrada, se possível.<br><br>Observe que a área verde na frente do prédio é utilizada para lazer de todos, as pessoas sentam na grama, fazem picnics, as crianças correm e rolam na grama, pense no coletivo e escolha bem o lugar para as necessidades do seu pet.<br><br><strong>Meu pet sujou o elevador, e agora?</strong><br><br>Você deverá limpar o que foi sujo e deverá avisar a equipe do prédio do ocorrido pra que eles possam conferir e se necessário reforçar a higienização.<br><br><strong>Meu pet sujou o chão de área comum, e agora?</strong></p>\n<p>Você deverá limpar o que foi sujo e deverá avisar a equipe do prédio do ocorrido pra que eles possam conferir e se necessário reforçar a higienização.</p>",
+            "author": {
+                "name": "Guto Carvalho"
+            },
+            "tags": [
+            ],
+            "date_published": "2021-07-06T20:29:59-03:00",
+            "date_modified": "2021-07-06T20:29:59-03:00"
+        },
+        {
             "id": "https://viahorizonte.life/quero-comprar-uma-unidade/",
             "url": "https://viahorizonte.life/quero-comprar-uma-unidade/",
             "title": "Quero comprar uma unidade",
@@ -120,34 +148,6 @@
             ],
             "date_published": "2021-06-17T00:26:24-03:00",
             "date_modified": "2021-06-30T09:06:47-03:00"
-        },
-        {
-            "id": "https://viahorizonte.life/reparos/",
-            "url": "https://viahorizonte.life/reparos/",
-            "title": "Reparos e ocorrências",
-            "summary": "Caso deseje notificar a administração da necessidade de reparos de algum ponto do condomínio, basta preencher este formulário. Neste formulário também é possível registrar ocorrências relativas a limpeza e segurança.",
-            "content_html": "<p>Caso deseje notificar a administração da necessidade de reparos de algum ponto do condomínio, basta preencher este <a href=\"https://forms.gle/L7TcA3LKfdSfuPsG9\">formulário</a>.</p>\n<p>Neste formulário também é possível registrar ocorrências relativas a limpeza e segurança.</p>",
-            "author": {
-                "name": "Guto Carvalho"
-            },
-            "tags": [
-            ],
-            "date_published": "2021-06-17T00:16:26-03:00",
-            "date_modified": "2021-06-30T09:06:52-03:00"
-        },
-        {
-            "id": "https://viahorizonte.life/escadas/",
-            "url": "https://viahorizonte.life/escadas/",
-            "title": "Escadas",
-            "summary": " Escadas - Cada torre tem sua escada de emergência - Luzes de emergência estão localizadas em cada andar Dimensões das Escadas - Corrimão a corrimão 1,23m - Parede a parede 1,39m - Altura 2,46m - Porta corta fogo 0,8x x 2,08m (vão livre)",
-            "content_html": "<p> <strong>Escadas</strong><br><br>- Cada torre tem sua escada de emergência<br>- Luzes de emergência estão localizadas em cada andar<br><br><strong>Dimensões das Escadas</strong><br><br>- Corrimão a corrimão 1,23m<br>- Parede a parede 1,39m<br>- Altura 2,46m<br>- Porta corta fogo 0,8x x 2,08m (vão livre)</p>",
-            "author": {
-                "name": "Guto Carvalho"
-            },
-            "tags": [
-            ],
-            "date_published": "2021-06-17T00:09:12-03:00",
-            "date_modified": "2021-06-17T00:11:29-03:00"
         }
     ]
 }
