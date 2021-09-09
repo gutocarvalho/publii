@@ -3,12 +3,35 @@
     <title>Via Horizonte</title>
     <link href="https://viahorizonte.life/feed.xml" rel="self" />
     <link href="https://viahorizonte.life" />
-    <updated>2021-07-06T21:03:45-03:00</updated>
+    <updated>2021-09-09T13:58:38-03:00</updated>
     <author>
         <name>Guto Carvalho</name>
     </author>
     <id>https://viahorizonte.life</id>
 
+    <entry>
+        <title>Hóspedes</title>
+        <author>
+            <name>Guto Carvalho</name>
+        </author>
+        <link href="https://viahorizonte.life/hospedes/"/>
+        <id>https://viahorizonte.life/hospedes/</id>
+
+        <updated>2021-09-09T13:58:38-03:00</updated>
+            <summary>
+                <![CDATA[
+                    Pessoal, Essa é uma dica minha, Guto 901-A, que uso sempre que recebo meus pais ou outras visitas que venham a se hospedar por alguns dias em minha casa. 1) Informo por e-mail (administracao@viahorizonte.life) o nome e telefone das pessoas que vão ficar aqui, autorizando&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Pessoal,</p>
+<p>Essa é uma dica minha, Guto 901-A, que uso sempre que recebo meus pais ou outras visitas que venham a se hospedar por alguns dias em minha casa.</p>
+<p>1) Informo por e-mail (<a href="mailto:administracao@viahorizonte.life">administracao@viahorizonte.life</a>) o nome e telefone das pessoas que vão ficar aqui, autorizando a entrada destas pelas portarias do prédio e garagem. Normalmente portaria central e portaria A em meu caso.<br><br>2) Informo os dados do carro se forem usar a garagem, enviando marca, modelo, cor, placa, qual vaga eles estão autorizados a usar e se tem controle.</p>
+<p>3) Informo se eles tem alguma deficiência e caso tenham, também autorizo o uso da vaga para deficientes (minha mãe é cadeirante). No carro deixamos sempre a vista o documento de autorização da vaga PCD.<br><br>4) Imprimo uma cópia da autorização que enviei por e-mail e deixo nas portarias A, B e Central e converso com os AGPs sobre a visita e autorização, pedindo para passarem as informações para o próximo turno.<br><br>No documento com autorização também deixo meu número pessoal/zap para qualquer dúvida poderem me ligar diretamente.<br><br>Isso é suficiente para que meus pais transitem com tranquilidade pelo Via, utilizando a infraestrutura do prédio com as devidas autorizações e permissões.<br><br>[s]</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Posso usar os clubes?</title>
         <author>
@@ -458,26 +481,6 @@
         <content type="html">
             <![CDATA[
                 <p><br>Faça o download da <a href="https://viahorizonte.life/media/files/PADRONIZACAO_ARMARIOS_GARAGEM.pdf" target="_blank" rel="noopener noreferrer">norma</a> de 16 de Dezembro de 2016 (PDF).<br><br><strong>Detalhamento</strong><br><br>É permitida a instalação de armários dentro dos limites das vagas e desde que não comprometam o uso ou manutenção de áreas, equipamentos e instalações do condomínio, observadas as seguintes condições:<br><br>Portas: Portas de correr do tipo veneziana.<br><br>Tamanho: Os armários deverão ter 0,60 m. de profundidade e altura máxima de 1 m.<br><br>Cor: Metálico na cor cinza platina (pintura eletrostática).<br><br>Instalação: O armário terá a largura da vaga, podendo atingir, no máximo, metade da faixa de sinalização que a delimita. Quando a vaga de garagem contiver alguma tampa de instalação em seu teto, o armário só poderá ser instalado se preservar uma distância mínima de vinte centímetros da tampa aberta.<br><br>Os armários só poderão ser instalados se observado a correta distância em relação aos sprinklers, da NBR 10987/2014, verificar o arquivo PDF;<br><br>O condômino será responsável por eventuais danos causados por seu armário a outro condômino ou ao condomínio, seja em razão de instalação inadequada, seja por falta de manutenção;<br><br>O condômino deverá providenciar a limpeza e a manutenção do armário de forma a assegurar sua boa aparência;<br><br>É vedado deixar qualquer objeto sob e/ou sobre os armários;<br><br>É vedada a utilização dos armários para armazenar produtos perecíveis, que exalem odor forte, combustíveis ou qualquer outro produto que possa causar risco a bens, pets e pessoas;<br><br>Quando a vaga de garagem contiver alguma tampa e/ou instalação em seu piso, o armário só poderá ser instalado se preservar uma altura mínima de um metro entre o piso e sua base.<br><br>Ver modelos no <a href="https://viahorizonte.life/media/files/PADRONIZACAO_ARMARIOS_GARAGEM.pdf" target="_blank" rel="noopener noreferrer">arquivo</a> PDF</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Denúncias</title>
-        <author>
-            <name>Guto Carvalho</name>
-        </author>
-        <link href="https://viahorizonte.life/denuncias/"/>
-        <id>https://viahorizonte.life/denuncias/</id>
-
-        <updated>2021-06-30T09:06:47-03:00</updated>
-            <summary>
-                <![CDATA[
-                    Caso deseje notificar alguma VIOLAÇÃO DO REGIMENTO INTERNO acesse este formulário.
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p><strong>Caso deseje notificar alguma VIOLAÇÃO DO REGIMENTO INTERNO acesse este <a href="https://forms.gle/L7TcA3LKfdSfuPsG9">formulário</a>.</strong></p>
             ]]>
         </content>
     </entry>
