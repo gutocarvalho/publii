@@ -3,12 +3,35 @@
     <title>Via Horizonte</title>
     <link href="https://viahorizonte.life/feed.xml" rel="self" />
     <link href="https://viahorizonte.life" />
-    <updated>2021-09-22T18:10:39-03:00</updated>
+    <updated>2021-09-23T12:02:45-03:00</updated>
     <author>
         <name>Guto Carvalho</name>
     </author>
     <id>https://viahorizonte.life</id>
 
+    <entry>
+        <title>Ralos e odores</title>
+        <author>
+            <name>Guto Carvalho</name>
+        </author>
+        <link href="https://viahorizonte.life/ralos-e-odores/"/>
+        <id>https://viahorizonte.life/ralos-e-odores/</id>
+
+        <updated>2021-09-23T12:02:45-03:00</updated>
+            <summary>
+                <![CDATA[
+                     
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                
+  <p>
+    
+  </p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Vacinação de COVID no ABC</title>
         <author>
@@ -554,26 +577,6 @@
 <div id="elementor-tab-title-2492" class="elementor-tab-title" role="tab" data-tab="2" aria-controls="elementor-tab-content-2492"><br><strong>Quem faz parte?</strong><br><br>- <a href="https://www.alphavilleresidencial1.com.br">Residencial 1</a><br>- Residencial 2<br>- Welcome Center<br>- AlphaMall<br>- Via Horizonte</div>
 </div>
 <p><strong>Site</strong><br><br>https://www.associacaogeralalphaville.com.br/</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Tela mosquiteira</title>
-        <author>
-            <name>Guto Carvalho</name>
-        </author>
-        <link href="https://viahorizonte.life/tela-mosquiteira/"/>
-        <id>https://viahorizonte.life/tela-mosquiteira/</id>
-
-        <updated>2021-07-06T18:59:58-03:00</updated>
-            <summary>
-                <![CDATA[
-                     Ainda não foi criada uma normal definitiva para essa tela. Padrão que tem sido usado Sistema: Trilho simples, atrás do trilho da janela. Alumínio: Anodizado prata fosco. Cor da tela: Cinza Normalmente instala-se apenas 1 folha da tela que é utilizada sob-demanda.
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p><br>Ainda não foi criada uma normal definitiva para essa tela.<br><br><strong>Padrão que tem sido usado</strong><br><br>Sistema: Trilho simples, atrás do trilho da janela.<br><br>Alumínio: Anodizado prata fosco.<br><br>Cor da tela: Cinza<br><br>Normalmente instala-se apenas 1 folha da tela que é utilizada sob-demanda.</p>
             ]]>
         </content>
     </entry>
